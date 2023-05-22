@@ -6,5 +6,4 @@ public class EmailApp {
 		Email e = new Email("Najmiddin", "Nazarmatov");
 		System.out.println(e.showInfo());
 	}
-
 }
